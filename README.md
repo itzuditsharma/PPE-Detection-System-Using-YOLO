@@ -24,3 +24,10 @@ This project implements a Personal Protective Equipment (PPE) detection system u
 * Blue: Other detected objects (Person, Vehicle, Machinery)
 
 **Confidence Scores:** Displays confidence level for each detection.
+
+## Requirements:
+* Python 3.x
+* OpenCV
+* Ultralytics YOLOv8
+* cvzone
+* Math
