@@ -31,3 +31,9 @@ This project implements a Personal Protective Equipment (PPE) detection system u
 * Ultralytics YOLOv8
 * cvzone
 * Math
+
+## Outputs 
+![image](https://github.com/user-attachments/assets/66ddc813-2ca8-4aaa-9a99-adabb6f44221)
+
+![image](https://github.com/user-attachments/assets/925d89b6-73a8-4b88-8610-f7cf5f0abd2f)
+
