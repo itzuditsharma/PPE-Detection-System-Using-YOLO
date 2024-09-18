@@ -22,4 +22,5 @@ This project implements a Personal Protective Equipment (PPE) detection system u
 * Red: Missing PPE (NO-Hardhat, NO-Mask, NO-Safety Vest)
 * Green: Correct PPE usage (Hardhat, Mask, Safety Vest)
 * Blue: Other detected objects (Person, Vehicle, Machinery)
+
 **Confidence Scores:** Displays confidence level for each detection.
