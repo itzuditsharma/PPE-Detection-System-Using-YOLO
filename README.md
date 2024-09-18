@@ -1,5 +1,6 @@
 # PPE-Detection-System-Using-YOLO
 This project implements a Personal Protective Equipment (PPE) detection system using the YOLO (You Only Look Once) object detection model.
+The system is capable of identifying whether individuals are wearing essential PPE such as hard hats, masks, and safety vests, as well as detecting when PPE is missing.
 
 ## Features:
 **Real-time Object Detection:** Detects PPE in live video streams or pre-recorded video files.
